@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @andreesa3
+- 👀 I’m interested in coding, anime and videogames!!
+- 🌱 I’m currently learning ...
+- 📫 How to reach me? Well, send me a mail: andrea.saitta.as@gmail.com
