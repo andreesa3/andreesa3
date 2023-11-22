@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @andreesa3
 - 👀 I’m interested in coding, anime and videogames!!
-- 🌱 I’m currently learning JavaScript and React
-- 📫 How to reach me? Well, send me a mail: andrea.saitta.as@gmail.com
+- 🌱 I’m currently learning Node.js and React
+- 📫 How to reach me? Send me a mail: andrea.saitta.as@gmail.com
